@@ -11,14 +11,14 @@ Dalia Uusiku
 
 Sheen Shipiki
 
-Chantel
+Ester Haradoes
 
  
 Roles for the Project 
 
 1.Dalia: Employee Management Lead
 
-2.Chantel: Budget Management Lead
+2.Ester: Budget Management Lead
 
 3.Mekere: Supplier Lead + Partial Reports
 
